@@ -1,4 +1,4 @@
-# MinardsMap
+# Minard's Map
 
 ![Image description](https://github.com/TheAdityaVishnu/MinardsMap/blob/master/Visual%20Image.png?raw=true)
 
